@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DEMO@\\WebApplication1\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76398EE1-379B-4A66-BC5B-9472AE2649A6}|WebApplication1\\WebApplication1.csproj|d:\\demo@\\webapplication1\\webapplication1\\webapplication1\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{76398EE1-379B-4A66-BC5B-9472AE2649A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76398EE1-379B-4A66-BC5B-9472AE2649A6}|WebApplication1\\WebApplication1.csproj|d:\\demo@\\webapplication1\\webapplication1\\webapplication1\\avatar\\logatv.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{76398EE1-379B-4A66-BC5B-9472AE2649A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\avatar\\logatv.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76398EE1-379B-4A66-BC5B-9472AE2649A6}|WebApplication1\\WebApplication1.csproj|d:\\demo@\\webapplication1\\webapplication1\\webapplication1\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{76398EE1-379B-4A66-BC5B-9472AE2649A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76398EE1-379B-4A66-BC5B-9472AE2649A6}|WebApplication1\\WebApplication1.csproj|D:\\DEMO@\\WebApplication1\\WebApplication1\\webapplication1\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{76398EE1-379B-4A66-BC5B-9472AE2649A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76398EE1-379B-4A66-BC5B-9472AE2649A6}|WebApplication1\\WebApplication1.csproj|D:\\DEMO@\\WebApplication1\\WebApplication1\\webapplication1\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{76398EE1-379B-4A66-BC5B-9472AE2649A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Site1.Master",
+              "DocumentMoniker": "D:\\DEMO@\\WebApplication1\\WebApplication1\\WebApplication1\\Site1.Master",
+              "RelativeDocumentMoniker": "WebApplication1\\Site1.Master",
+              "ToolTip": "D:\\DEMO@\\WebApplication1\\WebApplication1\\WebApplication1\\Site1.Master",
+              "RelativeToolTip": "WebApplication1\\Site1.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-02-10T00:35:56.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "logatv.png - PNG [148x148, 8 bit, PNG]",
+              "DocumentMoniker": "D:\\DEMO@\\WebApplication1\\WebApplication1\\WebApplication1\\Avatar\\logatv.png",
+              "RelativeDocumentMoniker": "WebApplication1\\Avatar\\logatv.png",
+              "ToolTip": "D:\\DEMO@\\WebApplication1\\WebApplication1\\WebApplication1\\Avatar\\logatv.png - PNG [148x148, 8 bit, PNG]",
+              "RelativeToolTip": "WebApplication1\\Avatar\\logatv.png - PNG [148x148, 8 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-02-10T00:35:23.442Z",
+              "EditorCaption": " - PNG [148x148, 8 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "D:\\DEMO@\\WebApplication1\\WebApplication1\\WebApplication1\\Login.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\Login.aspx",
+              "ToolTip": "D:\\DEMO@\\WebApplication1\\WebApplication1\\WebApplication1\\Login.aspx",
+              "RelativeToolTip": "WebApplication1\\Login.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-02-10T00:30:02.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "default.aspx",
+              "DocumentMoniker": "D:\\DEMO@\\WebApplication1\\WebApplication1\\WebApplication1\\default.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\default.aspx",
+              "ToolTip": "D:\\DEMO@\\WebApplication1\\WebApplication1\\WebApplication1\\default.aspx",
+              "RelativeToolTip": "WebApplication1\\default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-02-09T13:52:51.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Signup.aspx",
+              "DocumentMoniker": "D:\\DEMO@\\WebApplication1\\WebApplication1\\WebApplication1\\Signup.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\Signup.aspx",
+              "ToolTip": "D:\\DEMO@\\WebApplication1\\WebApplication1\\WebApplication1\\Signup.aspx",
+              "RelativeToolTip": "WebApplication1\\Signup.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-02-09T13:48:38.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
