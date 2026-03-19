@@ -14,24 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Site1.Master",
               "DocumentMoniker": "D:\\DEMO1\\140123015_TRINH\\140123015\\WebApplication1\\WebApplication1\\WebApplication1\\Site1.Master",
               "RelativeDocumentMoniker": "WebApplication1\\Site1.Master",
-              "ToolTip": "D:\\DEMO1\\140123015_TRINH\\140123015\\WebApplication1\\WebApplication1\\WebApplication1\\Site1.Master",
-              "RelativeToolTip": "WebApplication1\\Site1.Master",
+              "ToolTip": "D:\\DEMO1\\140123015_TRINH\\140123015\\WebApplication1\\WebApplication1\\WebApplication1\\Site1.Master*",
+              "RelativeToolTip": "WebApplication1\\Site1.Master*",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2026-03-18T13:44:41.445Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
